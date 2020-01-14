@@ -2,14 +2,15 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
 Some information about you!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Hello! My name is Jack Antico and I am currently a Junior studying computer science at Boston College. I've worked on various diffrent start-ups and have a couple of side-projects. In my free time, I enjoy reading about Silicon Valley, Finance, and Technology.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[jackantico3@gmail.com](mailto:jackantico3@gmail.com)
