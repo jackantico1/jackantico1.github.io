@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 Earlier this week, I attended the demo day for the SSC summer accelerator program. It was a hike all the way to 200 State Street in downtown Boston on the first day of classes but well worth it. The three companies showcased were Fisherman, Brüzd Foods, and Wunderite.
 
