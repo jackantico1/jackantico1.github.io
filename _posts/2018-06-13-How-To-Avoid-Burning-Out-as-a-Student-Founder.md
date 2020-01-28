@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 Running or helping to run an on-campus start-up can be a lot of fun. You have a direct impact on campus, you get to meet and interact with people in ways you haven’t before, and you finally have a go-to fun fact about yourself. It can also be a lot of stress. Here are some tips I’ve put together with the help of my fellow student founder’s at BC.
 
