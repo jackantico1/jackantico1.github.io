@@ -8,9 +8,7 @@ published: true
 
 My name is Jack Antico and I am currently a Junior studying computer science at Boston College. I've worked on various diffrent start-ups and have a couple of side-projects. In my free time, I enjoy reading about Silicon Valley, Finance, and Technology.
 
-I also do freelance iOS and web work. See [Jibra](https://jibrallc.github.io/jibra/) for my portfolio and more. Contact me @[jackantico3@gmail.com](mailto:jackantico3@gmail.com).
-
-##Get an email when I publish a new article
+I also do freelance iOS and web work. See [Jibra](https://jibrallc.github.io/jibra/) for my portfolio and more. Contact me @[jackantico3@gmail.com](mailto:jackantico3@gmail.com). Subscribe below to get an email everytime I publish a new article.
 
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css">
