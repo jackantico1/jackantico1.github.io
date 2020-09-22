@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 
 With the job hunting season well under way, I thought I would give a list of tips, tricks, and guiding principles I’ve learned from hunting both this season and seasons past. Most of this advice centers around finding a Product or SWE job, but I’m sure some of it applies to other industries as well.
