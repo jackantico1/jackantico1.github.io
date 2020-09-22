@@ -2,7 +2,7 @@
 published: false
 ---
 
-With the job hunting season well under way, I thought I would give a list of tips, tricks, and guiding principles I’ve learned from hunting both this season and seasons past. Most of this advice centers around finding a Product or SWE job, but I’m sure some of it applies to other industries as well
+With the job hunting season well under way, I thought I would give a list of tips, tricks, and guiding principles I’ve learned from hunting both this season and seasons past. Most of this advice centers around finding a Product or SWE job, but I’m sure some of it applies to other industries as well.
 
 **Have a separate gmail account for applying to jobs.** One of the most annoying things about being on the job hunt is the constant emails from companies. When you can be applying for up to 200+ jobs with tech companies, do yourself a favor and set up a separate account which you only check a few times a week. Seeing rejection email after rejection email come into the account you normally check can really put a strain on your mental health. Also, only have this account signed in on your computer, not your phone.
 
@@ -10,7 +10,7 @@ With the job hunting season well under way, I thought I would give a list of tip
 
 **Take a break from job boards every couple of weeks.** It’s tempting to go with the strategy of “I’m going to apply to 5, 10, X amount of jobs every day” to boost your numbers. This can work for a period of time, but jobs boards really only refresh about once a month. What ends up happening (at least what happened with me) is I started applying to companies I really didn’t fit at just to hit my daily goal which led to me feeling burnt out. If you start seeing the early signs of burnout in yourself, I’d encourage you to take two or three weeks off and just don’t think about the job search.
 
-**Keep an excel spreadsheet of jobs you have applied for.** I can’t stress this one enough: keep a simple google sheet or excel spreadsheet of the companies you applied for and your current application status with them. It can help you visualize how your search is going and also makes sure you don’t apply to the same job as well. Additionally, say you find a company you really like when you’re searching for an internship. You can check out the one I made for my summer 2020 internship search [here](https://docs.google.com/spreadsheets/d/1cJ5QLdFAmchnR231uSC5fxJifgo6HtrMniIahcDk4I4/edit?usp=sharing)
+**Keep an excel spreadsheet of jobs you have applied for.** I can’t stress this one enough: keep a simple google sheet or excel spreadsheet of the companies you applied for and your current application status with them. It can help you visualize how your search is going and also makes sure you don’t apply to the same job as well. Additionally, say you find a company you really like when you’re searching for an internship. You can check out the one I made for my summer 2020 internship search [here](https://docs.google.com/spreadsheets/d/1cJ5QLdFAmchnR231uSC5fxJifgo6HtrMniIahcDk4I4/edit?usp=sharing).
 
 **Download Clipboard History Pro to have all of your links handy.** Most jobs apps require various links: a link to your Linkedin, Github, Portfolio, Twitter, and/or personal website. I used to just keep all these tabs open in my browser while I applied to jobs until I heard about clipboard extensions which remember the last 100 things you’ve copied and pasted. I use Clipboard History Pro (no relation) 
 
